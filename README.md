@@ -12,4 +12,7 @@ npx webpack-dev-server
 ```
 
 ### Compilar producción 
+
+```
 npx webpack -p
+```
