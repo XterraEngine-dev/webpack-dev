@@ -1,8 +1,22 @@
-body{
-    background: rgb(165, 173, 170);
-    color: #000;
-    h1{
-        background:blue;;
-        color:#000;
-    }
+body {
+  background-color: #040327;
+}
+
+#cformulario{
+  padding: 56px;
+}
+
+.table td {
+  text-align: center;
+}
+
+.table th {
+  text-align: center;
+}
+
+.contenedor-titulo {
+  background-color: #29395D;
+  padding: 12px;
+  font-size: 28px;
+  color: white;
 }
